@@ -14,7 +14,7 @@ html, body
     width: 100%;
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
+    overflow-x: hidden; 
 }
 
 .container{
@@ -159,3 +159,7 @@ a:visited{
 .post p:last-child{
     margin-bottom: 0px;
 }
+
+#footer {
+    padding: 0 0 0px !important;
+    }
